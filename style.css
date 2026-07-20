@@ -391,7 +391,7 @@ body.nav-open { overflow:hidden; }
 
 .product-cell.warranty-badge {
   grid-column:1/-1; flex-direction:row; align-items:center; justify-content:space-between;
-  gap:24px; padding:32px 36px; background:var(--slate-deep); color:#fff;
+  gap:24px; padding:32px 36px; background:var(--slate-deep); color:#1d3560;
 }
 .warranty-badge-left { display:flex; align-items:center; gap:20px; }
 .warranty-badge-icon {
