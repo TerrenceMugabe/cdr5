@@ -380,7 +380,7 @@ body.nav-open { overflow:hidden; }
 /* Wide bands: finishing-touches cell + warranty badge */
 .product-cell.wide {
   grid-column:1/-1; flex-direction:row; flex-wrap:wrap; align-items:center;
-  justify-content:space-between; gap:24px; padding:32px 28px; background:var(--linen);
+  justify-content:space-between; gap:24px; padding:10px; background:var(--linen);
 }
 .product-cell.wide:hover { background:var(--linen-mid); }
 .product-cell.wide .wide-copy { flex:1 1 260px; }
